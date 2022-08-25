@@ -1,2 +1,1 @@
-# moduloprogramador2022
-Primer repositorio de prueba
+REPOSITORIO DE PRUEBA
